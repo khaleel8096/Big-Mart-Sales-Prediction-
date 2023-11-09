@@ -68,8 +68,7 @@ BigMart has provided a dataset with historical sales data for various products i
 
 ### Repository Contents
 
-- **data_preprocessing.py:** Python script for data cleaning, transformation, and preprocessing.
-- **sales_prediction.py:** Python script containing different regression models for sales prediction.
+- **data_preprocessing.py:** Python script for data cleaning, transformation, and preprocessing.containing different regression models for sales prediction.
 - **requirements.txt:** File listing all the Python packages required to run the code.
 
 ### How to Use
